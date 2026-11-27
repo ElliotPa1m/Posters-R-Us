@@ -39,7 +39,7 @@ const FRANCHISES = {
     "a new hope", "empire strikes back", "return of the jedi",
   ],
   "back-to-the-future": ["back to the future"],
-  "dune": ["dune part", /^dune$/],
+  "dune": ["dune part", /^dune$/, "dune 1984"],
   "alien": [/^alien$/, /^aliens$/, "alien 3", "alien resurrection"],
   "avengers": ["avengers", "endgame", "infinity war", "age of ultron", "doomsday"],
   "spider-verse": ["into the spider-verse", "across the spider-verse", "beyond the spider-verse"],
